@@ -1,0 +1,11 @@
+/Users/zackstout/Projects/Sorting/Sorting/bin/Debug/netcoreapp2.0/Sorting.deps.json
+/Users/zackstout/Projects/Sorting/Sorting/bin/Debug/netcoreapp2.0/Sorting.runtimeconfig.json
+/Users/zackstout/Projects/Sorting/Sorting/bin/Debug/netcoreapp2.0/Sorting.runtimeconfig.dev.json
+/Users/zackstout/Projects/Sorting/Sorting/bin/Debug/netcoreapp2.0/Sorting.dll
+/Users/zackstout/Projects/Sorting/Sorting/bin/Debug/netcoreapp2.0/Sorting.pdb
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.csprojResolveAssemblyReference.cache
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.csproj.CoreCompileInputs.cache
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.AssemblyInfoInputs.cache
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.AssemblyInfo.cs
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.dll
+/Users/zackstout/Projects/Sorting/Sorting/obj/Debug/netcoreapp2.0/Sorting.pdb
